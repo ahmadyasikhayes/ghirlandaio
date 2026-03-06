@@ -40,7 +40,7 @@ report : [telegram](https://t.me/yuroshub)
 | no       | tipe         | jumlah  | jenis    | 
 | ---------| ------------- | ------- | -------- |
 | 1        | makalah       | 1       | kelompok |
-| 2        | source code   | 1       | kelompol |
+| 2        | source code   | 1       | kelompok |
 | 3        | source code   | 9       | pribadi  |
 | 3        | documentation | 9       | pribadi  |
 
