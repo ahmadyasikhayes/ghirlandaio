@@ -10,6 +10,10 @@ dalam buku Science and Religion menegaskan bahwa hubungan keduanya bersifat dina
 Analogi mudahnya dan sederhananya yang dapat di gunakan seperti air dan minyak. keduanya tidak dapat menyatu secara alami, namun juga tidak saling merusak atau menghilangkan. dalam kondisi tertentu, keduanya dapat menyatu ketika ada perantara, seperti sabun. hal ini dapat membuktikan bahwa agama dan sains meskipun berbeda , tetapi tetap dapat di satukan dengan pendekatan dan pemahaman yang tepat.
 
 Oleh karena itu hal ini memang tidak bisa dikatakan bertolak belakang karena keduanya masih bisa selaras dan tidak saling menjatuhkan, akan tetapi untuk memahami keduanya memerlukan pemahaman dan pandangan khusus, sains dan agama juga sama-sama membantu manusia untuk memahami kehidupan dengan lebih jelas.
+
+Refrensi
+Brooke, John Hedley. (1991). Science and Religion: Some Historical Perspectives. Cambridge: Cambridge University Press.
+Yuval Noah Harari. (2017). Homo Deus: A Brief History of Tomorrow. New York: HarperCollins.
  
 
 
