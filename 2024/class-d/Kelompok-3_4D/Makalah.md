@@ -1,4 +1,4 @@
-# Makalah
+# Makalah Evolusi Relasi antara Negara, Sektor Swasta, dan Teknologi (1960–Sekarang): Peran Budaya Hacking serta Paradigma Open dan Closed Source
 ## Mata Kuliah : Perpustakaan dan Arsip Digital
 ## Dosen Pengampu : Al Muhdil Karim, S.IP., M.Hum.
 ## Disusun Oleh : Kelompok 3 (4D)
