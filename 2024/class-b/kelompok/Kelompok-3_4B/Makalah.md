@@ -1,5 +1,5 @@
 # 
-<img src="image-link.jpg" alt="Logo_UIN_JAKARTA" width="500" height="600">
+<img src="/2024/class-b/LOGO_UIN_JKT.png" alt="Logo_UIN_JAKARTA" width="500" height="600">
 
 
 
