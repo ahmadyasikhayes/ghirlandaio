@@ -14,3 +14,7 @@ Pada buku The wealth of nations by Adam Smith bagian pembagian kerja, dijelaskan
 
 ## Kesimpulan
 Open Source mendorong transparasi dan kolaborasi. Prinsip utama open source yaitu kebebasan untuk menggunakan, memodifikasi dan mendistribusikan perangkat lunak yang bersifat terbuka atau publik sehingga menghasilkan lingkungan yang kreatif dan berinovasi.
+
+## Referensi
+1. Smith, A. (2007). The Wealth of nations. Cosmo, Inc.
+2. Kelompok 3 $D (2006). Evolusi Relasi antar Negara, Sektor Swasta, dan Teknologi (1969-sekarang) : Peran Budaya Hacking serta Paradigma Open dan Closed Cource.
