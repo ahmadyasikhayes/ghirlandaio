@@ -11,3 +11,6 @@ Pertanyaan yang diberikan oleh kelompok 3 ke saya "Mengapaa Open source disebut 
 Open source merupakan model pengembangan perangkat lunak di mana kode sumber dari aplikasi tersebut dapan diaskes, dipelajari dan didistribusikan oleh siapa saja.
 
 Pada buku The wealth of nations by Adam Smith bagian pembagian kerja, dijelaskan bahwa suatu pabrik peniti jika memiliki tenaga kerja yang tidak terlatih dan tidak bisa menggunakan mesin, maka tidak akan bisa membuat satu peniti jika semua step (selutuh pekerjaan) dilakukan sendirian. Tidak sama dengan halnya jika satu orang melakukan pekerjaan hanya satu job desk atau satu kegiatan jadi setiap orang memiliki cabang pekerjaan. Walaupun mesin seadanya, mereka akan berusaha dan bekeja sama yang menghasilkan sebanyak 48 ribu peniti sehari. Oleh karena itu kalau bekerja individu, terpisan dan mandiri apalagi tidak terlatih pasti tidak bisa menghasilkan peniti sebanyak itu. Contoh tersebut menggambarkan tentang koleborasi.
+
+## Kesimpulan
+Open Source mendorong transparasi dan kolaborasi. Prinsip utama open source yaitu kebebasan untuk menggunakan, memodifikasi dan mendistribusikan perangkat lunak yang bersifat terbuka atau publik sehingga menghasilkan lingkungan yang kreatif dan berinovasi.
