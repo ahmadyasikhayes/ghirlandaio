@@ -25,4 +25,4 @@ Jadi munculnya komersialisasi teknologi di tahun 1970 an tidak lepas dari 2 mode
 * Berlin, L. (2017). Troublemakers: Silicon Valley Coming of Age. Simon & Schuster.
 
 
-
+---
