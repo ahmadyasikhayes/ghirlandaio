@@ -13,4 +13,4 @@ nvim /etc/mkinitcpio.d/linux-hardened.preset
 mkinitcpio -P
 
 # Reboot
-note: karena sekarang anda sudah memiliki 2 kernel ketika ingin memasuki ulang sialhkan spam tombol backspace
+note: karena sekarang anda sudah memiliki 2 kernel ketika ingin memasuki ulang silahkan spam tombol backspace lalu pilih linux hardened agar sistem lebih aman
